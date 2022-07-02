@@ -35,5 +35,3 @@ while True:
     else:
         print(f'Your have guessed the number. This is {number} for {count} tries')
         break
-
-# print(f'Count of tries is {random_predict()}')

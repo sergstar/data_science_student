@@ -132,3 +132,8 @@ dmypy.json
 # big dataset of project_1
 /data/dst-3.0_16_1_hh_database.csv
 dst-3.0_16_1_hh_database.csv
+
+# big dataset of project_1
+project_3/data/hotels.csv
+/data/hotels.csv
+hotels.csv

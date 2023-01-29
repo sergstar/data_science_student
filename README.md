@@ -5,4 +5,4 @@ DS homework
 
 * [Project 0. Game: Guess The Number](https://github.com/sergstar/data_science_student/tree/main/project_0)
 * [Project 1. Проект: Анализ вакансий на hh.ru](https://github.com/sergstar/data_science_student/tree/main/project_1)
-* [Project 2. ___](___)
+* [Project 3. Проект: Предсказание рейтинга отеля](https://github.com/sergstar/data_science_student/tree/main/project_3)

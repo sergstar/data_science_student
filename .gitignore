@@ -137,3 +137,32 @@ dst-3.0_16_1_hh_database.csv
 project_3/data/hotels.csv
 /data/hotels.csv
 hotels.csv
+
+# template of project_5
+project_5/Project-5._Ноутбук-шаблон.ipynb
+Project-5._Ноутбук-шаблон.ipynb
+
+# big datasets of project_5
+project_5/data/train.csv
+/data/train.csv
+train.csv
+project_5/data/test_data.csv
+/data/test_data.csv
+test_data.csv
+project_5/data/holiday_data.csv
+/data/holiday_data.csv
+holiday_data.csv
+project_5/data/weather_data.csv
+/data/weather_data.csv
+weather_data.csv
+project_5/data/osrm_data_train.csv
+/data/osrm_data_train.csv
+osrm_data_train.csv
+project_5/data/osrm_data_test.csv
+/data/osrm_data_test.csv
+osrm_data_test.csv
+
+# submission of project_5
+project_5/data/submission_gb.csv
+/data/submission_gb.csv
+submission_gb.csv

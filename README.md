@@ -7,3 +7,4 @@ DS homework
 * [Project 1. Проект: Анализ вакансий на hh.ru](https://github.com/sergstar/data_science_student/tree/main/project_1)
 * [Project 3. Проект: Предсказание рейтинга отеля](https://github.com/sergstar/data_science_student/tree/main/project_3)
 * [Project 4. Проект: Классификация](https://github.com/sergstar/data_science_student/tree/main/project_4)
+* [Project 5. Проект: Задача регрессии](https://github.com/sergstar/data_science_student/tree/main/project_5)

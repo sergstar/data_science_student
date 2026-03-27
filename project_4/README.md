@@ -25,7 +25,7 @@
 
 
 ### Краткая информация о данных
-[Датасет bank_fin.csv](https://github.com/sergstar/data_science_student/tree/main/project_3/data/bank_fin.csv)
+[Датасет bank_fin.csv](https://github.com/sergstar/data_science_student/tree/main/project_4/data/bank_fin.csv)
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
